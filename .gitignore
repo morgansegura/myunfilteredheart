@@ -24,12 +24,12 @@ wp-content/*
 
 # Custom plugins
 wp-content/plugins/*
-#!wp-content/plugins/advanced-custom-fields/
-#!wp-content/plugins/wordpress-seo/
-#!wp-content/plugins/acf-content-analysis-for-yoast-seo/
-#!wp-content/plugins/yoast-comment-hacks/
-#!wp-content/plugins/wp-super-cache/
-#!wp-content/plugins/duplicator/
+!wp-content/plugins/advanced-custom-fields/
+!wp-content/plugins/wordpress-seo/
+!wp-content/plugins/acf-content-analysis-for-yoast-seo/
+!wp-content/plugins/yoast-comment-hacks/
+!wp-content/plugins/wp-super-cache/
+!wp-content/plugins/duplicator/
 
 # Custom themes
 wp-content/themes/*
